@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+body {
+    background-image: linear-gradient(to right, #25DA4F, #DA25B0);
+}
+
+.wrapper {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    font-size: 60px;
+}
+
+.dice {
+    display: inline-block;
+    margin: 0 40px;
+}
+
+p {
+    font-size: 40px;
+    color: #fff;
+}
+
+img {
+    border-radius: 25px;
+    margin-bottom: 80px;
+}
+
+button {
+    display: block;
+    font-weight: bold;
+    margin: auto;
+    font-size: 18px;
+    padding: 12px;
+    border-radius: 5px;
+    border: none;
+}
